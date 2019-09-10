@@ -1,1 +1,17 @@
-theme: jekyll-theme-hacker
+# Setup
+title:          Florian Meinicke
+tagline:        My Own Website
+description:    My website hosted on GitHub Pages
+url:            https://fmeinicke.github.io
+baseurl:        ''
+paginate:       5
+theme:          jekyll-theme-hacker
+
+# Plugins, Tags, Categories and Analytics
+plugins:        [jekyll-paginate]
+
+# About/contact
+author:
+    name:       Florian Meinicke
+    url:        https://fmeinicke.github.io
+    email:      florian.meinicke@t-online.de
