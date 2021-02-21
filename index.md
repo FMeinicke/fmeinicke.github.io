@@ -1,5 +1,3 @@
 ---
-title: Welcome to my website
+layout: home
 ---
-
-More content coming soon ...
