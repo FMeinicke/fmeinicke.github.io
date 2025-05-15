@@ -1,6 +1,6 @@
 # version 0.0.1
 # adapted from https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll
-FROM ruby:2.6.4-slim-buster
+FROM ruby:slim-buster
 
 RUN apt-get update \
     && apt-get -y install --no-install-recommends apt-utils dialog 2>&1 \
