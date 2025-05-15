@@ -2,7 +2,7 @@
 
 # Name of website
 title:          Florian Meinicke
-tagline:        Developer. CS Student
+tagline:        Software Developer
 url:            https://fmeinicke.xyz
 baseurl:        ''
 paginate:       5
@@ -17,7 +17,7 @@ remote_theme: samarsault/texture
 # Theme settings
 texture:
   title: Florian Meinicke
-  tagline: Developer. CS Student
+  tagline: Software Developer
   date_format: "%b %-d, %Y"
   style: black
   showPicker: false
