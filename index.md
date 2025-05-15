@@ -1,3 +1,5 @@
 ---
-layout: home
+layout: page
 ---
+
+Still under construction... 🛠️😉
