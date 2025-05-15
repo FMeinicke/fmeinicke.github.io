@@ -14,7 +14,7 @@
     },
 
     // Uncomment the next line if you want to publish any ports.
-    "appPort": ["80:4000"],
+    // "appPort": ["4000:4000"],
 
     // Uncomment the next line to run commands after the container is created.
     // Start the server in the background
